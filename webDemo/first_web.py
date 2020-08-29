@@ -2,7 +2,13 @@ from wsgiref.simple_server import make_server
 
 
 def application(environ, start_response):
-    print(environ)
+    """
+
+    :param environ: 环境信息
+    :param start_response:  响应
+    :return:
+    """
+    # print(environ)
     status = '200 OK'
     headers = [('Content-Type', 'text/html:charset=utf8')]
     start_response(status, headers)
