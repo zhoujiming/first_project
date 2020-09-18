@@ -1,0 +1,3 @@
+. test_1.py::test_fix1
+. test_1.py::test_fix2
+. test_1.py::test_fix3
