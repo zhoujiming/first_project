@@ -1,0 +1,84 @@
+{
+  "uid" : "4e15a9cc66b14b7c",
+  "name" : "test_setup",
+  "fullName" : "test_allure_1.Test_all#test_setup",
+  "historyId" : "e9ae4ce2a29a918c88b024c7c31a8230",
+  "time" : {
+    "start" : 1600449670374,
+    "stop" : 1600449670374,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "allure通过注解方式完成内容的展示，setp表示测试步骤1...",
+      "time" : {
+        "start" : 1600449670374,
+        "stop" : 1600449670374,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : false,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "b3e0fd12372721b9",
+      "name" : "stdout",
+      "source" : "b3e0fd12372721b9.txt",
+      "type" : "text/plain",
+      "size" : 27
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_allure_1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_all"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-M5LJ2O7F"
+  }, {
+    "name" : "thread",
+    "value" : "10696-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure_1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4e15a9cc66b14b7c.json",
+  "parameterValues" : [ ]
+}

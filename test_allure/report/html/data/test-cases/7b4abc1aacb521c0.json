@@ -1,0 +1,90 @@
+{
+  "uid" : "7b4abc1aacb521c0",
+  "name" : "test_run",
+  "fullName" : "test_allure_1.Test_all#test_run",
+  "historyId" : "647ced17018fbb143829e0b357822afb",
+  "time" : {
+    "start" : 1600449670377,
+    "stop" : 1600449670378,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "run就是一个正常的方法.",
+      "time" : {
+        "start" : 1600449670377,
+        "stop" : 1600449670378,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ {
+        "uid" : "a0bdab7e6c4ff0be",
+        "name" : "描述内容，自定义",
+        "source" : "a0bdab7e6c4ff0be.attach",
+        "type" : "text/plain",
+        "size" : 16
+      } ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "hasContent" : true,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "1feb07a4a57eea86",
+      "name" : "stdout",
+      "source" : "1feb07a4a57eea86.txt",
+      "type" : "text/plain",
+      "size" : 13
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 1,
+    "hasContent" : true,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_allure_1"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_all"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-M5LJ2O7F"
+  }, {
+    "name" : "thread",
+    "value" : "10696-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_allure_1"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7b4abc1aacb521c0.json",
+  "parameterValues" : [ ]
+}

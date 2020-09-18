@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "AttributeError: __enter__",
+      "children" : [ {
+        "name" : "test_error",
+        "uid" : "32c0fe3ef01fae39",
+        "parentUid" : "5abbebe81d5b9801a0be7a5f0084c5bf",
+        "status" : "broken",
+        "time" : {
+          "start" : 1600449670384,
+          "stop" : 1600449670385,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "5abbebe81d5b9801a0be7a5f0084c5bf"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ]
+}
